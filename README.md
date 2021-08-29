@@ -36,16 +36,15 @@
  |_| |___/   |_|  |_| |_| |_| |_|  \___/   \__|  \__,_|  \__,_| |_| 
  
  ```
- 
- 
- 
- 
-<!-- ![nahuedev's github stats](https://github-readme-stats.vercel.app/api?username=nahuedev&theme=merko&show_icons=true) -->
+<br>
+<br>
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahuedev&layout=compact&hide=html" alt="zendy199x" /></div>
-<br />
-<br />
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=nahuedev&show_icons=true" alt="nahuedev" /></div>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahuedev&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahuedev&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
  
  
  
